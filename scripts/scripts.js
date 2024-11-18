@@ -12,8 +12,8 @@ You are encouraged to use the provided naming convention for ease of review.
 // INSERT YOUR CODE HERE
 
 
-modelName = "XYZ"; 
-duration = 0;             
+var modelName = "XYZ"; 
+var duration = 0;             
 
 
 
